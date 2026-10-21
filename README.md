@@ -19,7 +19,7 @@ Welcome to the official GitHub organization for **[Spin'A'Cloud™](https://spin
 - 🌐 **Official Website:** [https://spinacloud.com](https://spinacloud.com)
 - 📍 **Google Business Profile:** [Find us on Google Maps / Search](https://share.google/IZn4jq1nZj4imWD0O)
 - 💬 **Developer & CloudOps Community:** Join our official Discord for architecture reviews, DevOps discussions, and direct engineering support.
-- 📊 **Compare & Review Us:** [SourceForge](https://sourceforge.net/software/product/SpinACloudTM/) | [Clutch Profile](https://clutch.co/profile/spinacloud) | [G2 Reviews](https://www.g2.com/products/spin-a-cloud/reviews) | [Crunchbase Profile](https://www.crunchbase.com/organization/spin-a-cloud)
+- 📊 **Compare & Review Us:** [SaaSHub](https://www.saashub.com/spinacloud-alternatives) | [StackShare](https://stackshare.io/spin-a-cloud) | [Product Hunt](https://www.producthunt.com/products/spin-a-cloud) | [SourceForge](https://sourceforge.net/software/product/SpinACloudTM/) | [Clutch Profile](https://clutch.co/profile/spinacloud) | [G2 Reviews](https://www.g2.com/products/spin-a-cloud/reviews) | [Crunchbase Profile](https://www.crunchbase.com/organization/spin-a-cloud)
 
 ---
 *Operated by Shirish Productions | Engineered in India for the Global Web.*
